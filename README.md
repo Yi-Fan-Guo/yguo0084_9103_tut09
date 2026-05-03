@@ -1,5 +1,3 @@
-# yguo0084_9103_tut09
-
 # Quiz 8
 
 ## Part 1: Imaging Technique Inspiration
