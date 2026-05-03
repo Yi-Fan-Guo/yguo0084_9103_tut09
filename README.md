@@ -14,9 +14,10 @@ This AI‑generated video inspires me because it blends a digital loading logo w
 
 ## Part 2: Coding Technique Exploration
 
-This coding technique generates multiple flower shapes in different colors and sizes, and each flower automatically grows and shrinks to create a lively animation. When the user clicks on a flower, it triggers a blooming effect, making the interaction feel natural and responsive. This approach helps me recreate the visual idea from Part 1 by linking user input with organic motion, allowing digital flowers to “come alive” through **simple and achievable code**.
+This coding technique generates multiple flower shapes in different colors and sizes, and each flower automatically grows and shrinks to create a lively animation. When the user clicks on a flower, it triggers a blooming effect, making the interaction feel natural and responsive. This approach helps me recreate the visual idea from Part 1 by linking user input with organic motion, allowing digital flowers 
+to “come alive” through **simple and achievable code**.
+
+Example code: https://p5js.org/zh-Hans/tutorials/data-structure-garden/
 
 ![flower shrink](libraries/assets/shrink.png)
 ![flower grows](libraries/assets/grows.png)
-
-Example code: https://p5js.org/zh-Hans/tutorials/data-structure-garden/
